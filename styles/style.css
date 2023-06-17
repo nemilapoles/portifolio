@@ -35,12 +35,12 @@ body {
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 50px;
 }
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -130,7 +130,7 @@ body {
 /*ABOUT*/
 
 .apresentacao__conteudo__about {
-    width: 615px;
+    width: auto;
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -148,7 +148,7 @@ body {
 /*CURRICULO*/
 
 .titulos__curriculo {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
     margin-bottom: 2%;
 }
