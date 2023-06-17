@@ -171,7 +171,6 @@ body {
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
-        width: 100%;
     }
 
     .apresentacao__conteudo {
