@@ -1,5 +1,5 @@
 # Portifólio
-Oi, bem vindo(a) ao meu projeto de portifólio.
+Oi, bem vindo(a) ao meu projeto de layout para portifólio.
 
 Dê uma olhada clicando [aqui!](https://portifolio-nemilapoles.vercel.app)
 
